@@ -1,0 +1,21 @@
+
+@font-face {
+        font-family: 'DanielFont';
+        src: url('HoeflerText-Black-02.ttf');
+        font-style: black;
+    }
+
+@font-face {
+        font-family: 'Hoefler';
+        src: url('HoeflerText.ttf');
+    }
+
+@font-face {
+        font-family: 'HoeflerBold';
+        src: url('HoeflerTextBold.otf');
+    }
+
+@font-face {
+        font-family: 'HoeflerBlack';
+        src: url('HoeflerTextBlack.ttf');
+    }
